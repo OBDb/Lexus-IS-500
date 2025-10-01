@@ -1,0 +1,8 @@
+command_id: 7C0.2129
+test_cases:
+- expected_values:
+    LEXUS_FLI_VOL: 0
+  response: 7C803612900
+- expected_values:
+    LEXUS_FLI_VOL: 17.30515
+  response: 7C803612983
