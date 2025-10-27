@@ -11,9 +11,9 @@ test_cases:
     7582A10076116000000
     7582A21510000000000
 - expected_values:
-    LEXUS_TT_FR_V3: 28
+    LEXUS_TT_FR_V3: 26
   response: |-
-    7582A10076116004400
+    7582A10076116004200
     7582A21000000000000
 - expected_values:
     LEXUS_TT_FL_V2: 23
