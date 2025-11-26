@@ -4,23 +4,5 @@ test_cases:
     LEXUS_AAT_V2: 22.2
   response: 7CC03612282
 - expected_values:
-    LEXUS_AAT_V2: 22.55
-  response: 7CC03612283
-- expected_values:
-    LEXUS_AAT_V2: 22.9
-  response: 7CC03612284
-- expected_values:
-    LEXUS_AAT_V2: 23.25
-  response: 7CC03612285
-- expected_values:
-    LEXUS_AAT_V2: 23.6
-  response: 7CC03612286
-- expected_values:
-    LEXUS_AAT_V2: 23.95
-  response: 7CC03612287
-- expected_values:
-    LEXUS_AAT_V2: 24.65
-  response: 7CC03612289
-- expected_values:
-    LEXUS_AAT_V2: 25
-  response: 7CC0361228A
+    LEXUS_AAT_V2: 30.25
+  response: 7CC03612299
